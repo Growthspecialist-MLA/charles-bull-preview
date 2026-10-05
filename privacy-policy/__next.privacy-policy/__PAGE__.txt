@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],""]
+3:I[97367,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"ViewportBoundary"]
+9:I[97367,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"MetadataBoundary"]
+7:X
+1b:X
+1b:C
+0:{"buildId":"static","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"on-dark relative overflow-hidden bg-navy-900 pb-16 pt-10 text-white/85 md:pb-24 md:pt-14","children":[["$","svg",null,{"aria-hidden":true,"className":"pointer-events-none absolute -right-24 -top-16 h-[30rem] w-[30rem] text-sky-400/10 md:-right-10","viewBox":"0 0 200 200","fill":"none","children":[["$","path",null,{"d":"M100 8 180 54v92l-80 46-80-46V54z","stroke":"currentColor","strokeWidth":"6"}],["$","path",null,{"d":"M100 38 154 69v62l-54 31-54-31V69z","stroke":"currentColor","strokeWidth":"3"}]]}],["$","div",null,{"className":"mx-auto w-full max-w-[1200px] px-5 md:px-8 relative","children":[["$","nav",null,{"aria-label":"Breadcrumb","children":["$","ol",null,{"className":"flex flex-wrap items-center gap-2 text-[0.9375rem] text-white/65","children":[["$","li","/",{"className":"flex items-center gap-2","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-white hover:underline","children":"Home"}]]}],["$","li","/privacy-policy/",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":"/"}],["$","span",null,{"aria-current":"page","className":"text-white/90","children":"Privacy Policy"}]]}]]}]}],["$","div",null,{"className":"mt-10 max-w-3xl md:mt-14","children":["$undefined",["$","h1",null,{"className":"text-white","children":"Privacy Policy"}],"$undefined"]}]]}]]}],["$","section",null,{"className":"py-18 md:py-28 bg-white ","children":["$","div",null,{"className":"mx-auto w-full max-w-[1200px] px-5 md:px-8 ","children":["$","div",null,{"className":"prose","children":[["$","p",null,{"children":["This policy explains how ","Charles Bull Law Office"," (“the office”) handles information you share through"," ","www.charlesbulloffice.com","."]}],["$","h2",null,{"children":"Information you send us"}],["$","p",null,{"children":"When you use the contact form, you send your name, phone number, and optionally your email address and a short message. The office uses this information only to respond to your inquiry and schedule a consultation. The form is delivered by a third-party email service, Web3Forms, which passes your message to the office's inbox."}],["$","h2",null,{"children":"What we don't do"}],["$","ul",null,{"children":[["$","li",null,{"children":"We do not sell or rent your information."}],["$","li",null,{"children":"We do not use advertising cookies or tracking pixels on this website."}],["$","li",null,{"children":"We do not share your information except as needed to respond to you or as required by law."}]]}],["$","h2",null,{"children":"No attorney-client relationship"}],["$","p",null,{"children":"Sending a message through this website does not create an attorney-client relationship. Please don't send confidential information until you have spoken with the office."}],["$","h2",null,{"children":"Contact"}],["$","p",null,{"children":["Questions about this policy? Call ","(337) 329-9243"," or write to ","Charles Bull Law Office",", ","106 South Adams Street, Welsh, LA 70591","."]}]]}]}]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#183658"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy Policy | Charles Bull Law Office"}],["$","meta","1",{"name":"description","content":"How Charles Bull Law Office handles information you share through this website."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://www.charlesbulloffice.com/privacy-policy/"}],["$","meta","4",{"property":"og:title","content":"Privacy Policy | Charles Bull Law Office"}],["$","meta","5",{"property":"og:description","content":"How Charles Bull Law Office handles information you share through this website."}],["$","meta","6",{"property":"og:url","content":"https://www.charlesbulloffice.com/"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]}],"$L17"]}],"isPartial":"$@18","staleTime":"$7","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$7","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"IconMark"]
+1f:I[39756,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"default"]
+20:I[37457,["/charles-bull-preview/_next/static/chunks/1h1yg8v39z4z4.js","/charles-bull-preview/_next/static/chunks/2bi-qhb7i_c-p.js"],"default"]
+5:null
+a:["$","meta","7",{"property":"og:site_name","content":"Charles Bull Law Office"}]
+b:["$","meta","8",{"property":"og:image","content":"https://www.charlesbulloffice.com/images/og.jpg"}]
+c:["$","meta","9",{"property":"og:image:width","content":"1200"}]
+d:["$","meta","10",{"property":"og:image:height","content":"630"}]
+e:["$","meta","11",{"property":"og:type","content":"website"}]
+f:["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}]
+10:["$","meta","13",{"name":"twitter:title","content":"Privacy Policy | Charles Bull Law Office"}]
+11:["$","meta","14",{"name":"twitter:description","content":"How Charles Bull Law Office handles information you share through this website."}]
+12:["$","meta","15",{"name":"twitter:image","content":"https://www.charlesbulloffice.com/images/og.jpg"}]
+13:["$","meta","16",{"name":"twitter:image:width","content":"1200"}]
+14:["$","meta","17",{"name":"twitter:image:height","content":"630"}]
+15:["$","link","18",{"rel":"icon","href":"/charles-bull-preview/icon.png?icon.40xnue-tgxb5q.png","sizes":"96x96","type":"image/png"}]
+16:["$","$L1e","19",{}]
+17:["$","meta",null,{"name":"next-size-adjust","content":""}]
+19:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+7:300
+7:C
+1c:0
+18:"$undefined"
+1a:"$undefined"
+6:"$undefined"

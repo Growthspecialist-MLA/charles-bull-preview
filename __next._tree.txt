@@ -1,0 +1,5 @@
+:HL["/charles-bull-preview/_next/static/chunks/0qr7_i4sxn22o.css","style"]
+:HL["/charles-bull-preview/_next/static/media/15e5804ec144eae0-s.p.27lr48mxwhq0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charles-bull-preview/_next/static/media/47df9ba1c7236d3b-s.p.2adce56gso3ku.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charles-bull-preview/images/hero-hands-1600.jpg","image",{"imageSrcSet":"/charles-bull-preview/images/hero-hands-900.jpg 900w, /charles-bull-preview/images/hero-hands-1600.jpg 1600w","imageSizes":"100vw","fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"static"}
